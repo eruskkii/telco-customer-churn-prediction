@@ -4,7 +4,8 @@ Using various ML models to run predictions on churn for telco customer.
 I used this project to learn Data cleaning, Exploratory Data analysis, feature engineering, why training and test data is important. 
 
 Then the weird guys. The confusion matrix, the roc/aoc curves, accuracyt scores, precision scores. 
-Model trained with 
+Model trained with
+
 Model                      ROC-AUC   Recall  Precision       F1   Accuracy
 =================================================================
 Logistic Regression         0.8416   0.7807     0.5069   0.6147     0.7402
